@@ -7,12 +7,12 @@ function Projects() {
         <h2 className="section-title">Featured Projects</h2>
         <div className="projects-grid">
           <div className="project-card hover-lift">
+            <span className="project-type">Web Application</span>
             <div className="project-image">
               <div className="image-placeholder">🚚</div>
             </div>
             <div className="project-header">
               <h3>SupplyNet X</h3>
-              <span className="project-type">AI Platform</span>
             </div>
             <p className="project-description">
               An AI-driven supply chain intelligence platform that manages the complete workflow from supplier 
@@ -27,12 +27,12 @@ function Projects() {
             </div>
           </div>
           <div className="project-card hover-lift">
+            <span className="project-type">Web Application</span>
             <div className="project-image">
               <div className="image-placeholder">🛒</div>
             </div>
             <div className="project-header">
               <h3>E-Commerce Platform</h3>
-              <span className="project-type">Full Stack</span>
             </div>
             <p className="project-description">
               A full-stack web application enabling product management, user authentication, order processing, 
@@ -46,12 +46,12 @@ function Projects() {
             </div>
           </div>
           <div className="project-card hover-lift">
+            <span className="project-type">Group Project</span>
             <div className="project-image">
               <div className="image-placeholder">⚖️</div>
             </div>
             <div className="project-header">
               <h3>Find a Lawyer</h3>
-              <span className="project-type">Group Project</span>
             </div>
             <p className="project-description">
               A full-stack web platform to help citizens find and book consultations with lawyers, including 
@@ -66,12 +66,12 @@ function Projects() {
             <p className="contribution">My Contribution: Frontend and backend development, database design and integration.</p>
           </div>
           <div className="project-card hover-lift">
+            <span className="project-type">Research</span>
             <div className="project-image">
               <div className="image-placeholder">🔬</div>
             </div>
             <div className="project-header">
               <h3>Adaptive Dynamic Array Research</h3>
-              <span className="project-type">Research</span>
             </div>
             <p className="project-description">
               Final year ongoing research focused on designing and evaluating a dynamic array data structure 
@@ -82,6 +82,48 @@ function Projects() {
               <span>Data Structures</span>
               <span>Algorithms</span>
               <span>Performance Analysis</span>
+            </div>
+          </div>
+          <div className="project-card hover-lift">
+            <span className="project-type">Web Application</span>
+            <div className="project-image">
+              <div className="image-placeholder">🤖</div>
+            </div>
+            <div className="project-header">
+              <h3>Customize AI Chatbots Generator</h3>
+            </div>
+            <p className="project-description">
+              A customizable AI chatbot generator platform that allows users to create and deploy intelligent 
+              chatbots tailored to their specific needs. Features dynamic configuration, real-time responses, 
+              and seamless integration capabilities.
+            </p>
+            <div className="project-tags">
+              <span>Laravel</span>
+              <span>MySQL</span>
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JavaScript</span>
+            </div>
+          </div>
+          <div className="project-card hover-lift">
+            <span className="project-type">Web Application</span>
+            <div className="project-image">
+              <div className="image-placeholder">📧</div>
+            </div>
+            <div className="project-header">
+              <h3>Email Management System</h3>
+            </div>
+            <p className="project-description">
+              A comprehensive email management platform that handles bulk email sending, customizable email templates, 
+              group categorization, and detailed email statistics tracking. Streamlines email campaigns and provides 
+              insights into delivery and engagement metrics.
+            </p>
+            <div className="project-tags">
+              <span>Laravel</span>
+              <span>MySQL</span>
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JavaScript</span>
             </div>
           </div>
         </div>

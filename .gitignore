@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Setup documentation
+GOOGLE_SHEETS_SETUP.md

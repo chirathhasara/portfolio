@@ -21,15 +21,13 @@
 }
 
 .project-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   margin-bottom: 1rem;
 }
 
 .project-card h3 {
   font-size: 1.5rem;
   color: var(--text);
+  margin: 0;
 }
 
 .project-type {
@@ -39,6 +37,8 @@
   border-radius: 12px;
   font-size: 0.75rem;
   font-weight: 600;
+  display: inline-block;
+  margin-bottom: 1rem;
 }
 
 .project-description {
@@ -79,6 +79,9 @@
   font-size: 5rem;
   opacity: 0.6;
   transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .project-card:hover .project-image .image-placeholder {
