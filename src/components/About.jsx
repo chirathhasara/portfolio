@@ -22,7 +22,7 @@ function About() {
                 <span className="stat-label">CGPA</span>
               </div>
               <div className="stat scale-in" style={{animationDelay: '0.2s'}}>
-                <span className="stat-number">4+</span>
+                <span className="stat-number">6+</span>
                 <span className="stat-label">Projects Completed</span>
               </div>
               <div className="stat scale-in" style={{animationDelay: '0.3s'}}>
