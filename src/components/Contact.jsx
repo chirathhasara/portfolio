@@ -86,7 +86,7 @@ function Contact() {
               <a href="https://github.com/chirathhasara" target="_blank" rel="noopener noreferrer" className="social-link pulse">
                 GitHub
               </a>
-              <a href="www.linkedin.com/in/chirath-hasara-26692b2a1" target="_blank" rel="noopener noreferrer" className="social-link pulse">
+              <a href="https://www.linkedin.com/in/chirath-hasara-26692b2a1" target="_blank" rel="noopener noreferrer" className="social-link pulse">
                 LinkedIn
               </a>
             </div>
